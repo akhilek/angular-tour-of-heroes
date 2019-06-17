@@ -1,5 +1,5 @@
-# tour-of-heroes
-Super simple Angular app with 1 module and 2 routes. 
+# angular-tour-of-heroes
+The practical implementation of the guide https://angular.io/tutorial 
 
 # Development server
 
