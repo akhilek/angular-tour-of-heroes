@@ -11,8 +11,9 @@ Run ng generate component component-name to generate a new component. You can al
 
 # Running unit tests
 
-# Run ng test to execute the unit tests via Karma.
-Running end-to-end tests
+Run ng test to execute the unit tests via Karma.
+
+# Running end-to-end tests
 
 Run ng e2e to execute the end-to-end tests via Protractor. Before running the tests make sure you are serving the app via ng serve.
 
